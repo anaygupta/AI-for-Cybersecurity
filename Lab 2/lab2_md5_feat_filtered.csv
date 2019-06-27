@@ -1,0 +1,82 @@
+,family,LinkerVersion,ImageVersion,InitializedDataSize,EntryPoint,MIMEType,TimeStamp,FileType,PEType,SubsystemVersion,UninitializedDataSize,OSVersion,md5,Subsystem,MachineType,CodeSize,FileTypeExtension
+0,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:08 00:08:32+01:00,Win32 EXE,PE32,4.0,0,4.0,9e06e2fcda95624e24207112632934de,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+1,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:09 22:20:56+01:00,Win32 EXE,PE32,4.0,0,4.0,5b4c1b0e5c0c375594018a79b2a7a4be,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+2,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:06 10:32:13+01:00,Win32 EXE,PE32,4.0,0,4.0,a78a2cfcb76422b16936537bc5296996,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+3,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:04 22:51:19+01:00,Win32 EXE,PE32,4.0,0,4.0,b382486264996132983c279b056bab2a,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+4,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:09 14:52:36+01:00,Win32 EXE,PE32,4.0,0,4.0,dfa8814b043cbd03bbd56fe6783a159d,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+5,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:10 10:23:55+01:00,Win32 EXE,PE32,4.0,0,4.0,075d6ac8bd9c1d1e0ba6aca7ca98bfab,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+6,dridex,6.0,11.0,9457664,0x1868,application/octet-stream,2016:01:07 07:10:59+01:00,Win32 EXE,PE32,4.0,0,4.0,6a46f5c6d1417f159a0134941da35cca,Windows GUI,"Intel 386 or later, and compatibles",98304,exe
+7,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:08 00:48:45+01:00,Win32 EXE,PE32,4.0,0,4.0,0111b2bd0543d5e35acde388ed8b62eb,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+8,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:08 11:30:41+01:00,Win32 EXE,PE32,4.0,0,4.0,debe7758f06568d1a1d98f26ad8ef9db,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+9,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:09 10:05:42+01:00,Win32 EXE,PE32,4.0,0,4.0,017d9d43baf8dc2d8451d0ef2e9a07f6,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+10,dridex,2.0,1.0,0,0x4f400,application/octet-stream,2036:06:01 17:15:19+01:00,Win32 EXE,PE32,5.0,8192,5.0,2e0c328aae6abfb19bf02e0fbc5dea93,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+11,dridex,8.0,0.0,2560,0x34eee,application/octet-stream,2007:07:12 01:14:00+01:00,Win32 EXE,PE32,4.0,0,4.0,2ca3d7c9f95cbb42efa447d1cbe9a885,Windows GUI,"Intel 386 or later, and compatibles",208896,exe
+12,dridex,7.1,4.0,86016,0x1000,application/octet-stream,1997:10:25 22:19:52+01:00,Win32 EXE,PE32,4.1,438272,5.0,3b1a28c2064bacc292e473c9cd49390e,Windows GUI,"Intel 386 or later, and compatibles",8192,exe
+13,dridex,6.0,0.0,2117632,0xce30,application/octet-stream,2005:07:24 22:16:46+01:00,Win32 EXE,PE32,4.0,0,4.0,8f3063ef8032799f71507b8f88f8a1c5,Windows GUI,"Intel 386 or later, and compatibles",49152,exe
+14,dridex,8.0,0.0,28672,0x5c70,application/octet-stream,2015:02:07 12:44:28+01:00,Win32 EXE,PE32,4.0,0,4.0,0ed7cdd5df7bf46fac39ae32478203bb,Windows command line,"Intel 386 or later, and compatibles",24576,exe
+15,dridex,10.0,0.0,32768,0x3f4c,application/octet-stream,2015:07:30 17:48:19+01:00,Win32 EXE,PE32,5.1,0,5.1,59765f9d900ca3788287b683e39e01ef,Windows GUI,"Intel 386 or later, and compatibles",39936,exe
+16,dridex,6.0,0.0,3756032,0xc600,application/octet-stream,2004:12:07 07:53:58+01:00,Win32 EXE,PE32,4.0,0,4.0,1f259a88f61e45cc6f357f2fc8dacb9c,Windows GUI,"Intel 386 or later, and compatibles",49152,exe
+17,dridex,0.23,1.0,124928,0x26670,application/octet-stream,1991:09:25 10:38:58+01:00,Win32 EXE,PE32,4.0,5632,4.0,2845499946fd5882f94cc9a4375b364a,Windows command line,"Intel 386 or later, and compatibles",28160,exe
+18,dridex,7.7,4.0,86016,0x1000,application/octet-stream,1997:10:25 22:19:52+01:00,Win32 EXE,PE32,5.1,438272,5.0,cbb76581026efc205559598918841b32,Windows GUI,"Intel 386 or later, and compatibles",8192,exe
+19,dridex,2.56,1.0,172544,0x1630,application/octet-stream,2010:01:30 18:39:03+01:00,Win32 EXE,PE32,4.0,700416,4.0,3a6ba8f950ce66247f8ecad7768eddaf,Windows GUI,"Intel 386 or later, and compatibles",2048,exe
+20,dridex,9.254,0.0,119296,0x1078,application/octet-stream,2015:06:18 12:21:03+01:00,Win32 EXE,PE32,4.0,0,4.0,d92147110ed2fcc0de8a4fa8ce14a558,Windows GUI,"Intel 386 or later, and compatibles",39936,exe
+21,locky,9.0,9.0,237568,0x7e4a,application/octet-stream,2016:04:29 07:24:51+01:00,Win32 EXE,PE32,5.0,0,5.0,297529814d8d292594a1981fad30daa6,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+22,locky,9.0,9.0,237568,0x7e4a,application/octet-stream,2016:04:29 07:25:12+01:00,Win32 EXE,PE32,5.0,0,5.0,b97ed89e814ad91338a6bdd5f7853566,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+23,locky,9.0,9.0,237568,0x7e4a,application/octet-stream,2016:04:29 07:24:54+01:00,Win32 EXE,PE32,5.0,0,5.0,40849d82a14058cbc91d0ecea473d1d8,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+24,locky,9.0,9.0,238080,0x7e4a,application/octet-stream,2016:04:29 07:24:51+01:00,Win32 EXE,PE32,5.0,0,5.0,254c5c13dd02a9fccbe2a40ac0b04355,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+25,locky,9.0,9.0,237568,0x7e4a,application/octet-stream,2016:04:29 07:24:54+01:00,Win32 EXE,PE32,5.0,0,5.0,1d0687fe7c7c5591f1049ecb84e8cbd9,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+26,locky,9.0,9.0,237568,0x7e4a,application/octet-stream,2016:04:29 07:24:54+01:00,Win32 EXE,PE32,5.0,0,5.0,0aa56c23cff79948f977ebd1a470b4ad,Windows GUI,"Intel 386 or later, and compatibles",61952,exe
+27,locky,2.5,0.0,149504,0x1000,application/octet-stream,2016:10:11 08:14:20+01:00,Win32 EXE,PE32,4.0,0,4.0,85af16270f649b670cd255e6054d5388,Windows GUI,"Intel 386 or later, and compatibles",41472,exe
+28,locky,10.0,0.0,162304,0xbdf7,application/octet-stream,2016:07:05 00:30:18+01:00,Win32 EXE,PE32,5.1,0,5.1,901ef89350b60a992e1a6c67a61dcdab,Windows GUI,"Intel 386 or later, and compatibles",69120,exe
+29,locky,10.0,0.0,162304,0xbdf7,application/octet-stream,2016:07:04 16:30:18-07:00,Win32 EXE,PE32,5.1,0,5.1,fe4985beae55b054259bf14d3a3e50a7,Windows GUI,"Intel 386 or later, and compatibles",69120,exe
+30,locky,6.0,6.0,3805696,0x3212,application/octet-stream,2014:10:07 05:39:59+01:00,Win32 EXE,PE32,4.0,2048,4.0,3b522c3e3fc6cf29a2c8c65a80f14a08,Windows GUI,"Intel 386 or later, and compatibles",24576,exe
+31,locky,9.0,0.0,93696,0x12f3f,application/octet-stream,2016:03:09 07:07:41+01:00,Win32 EXE,PE32,5.1,4096,5.1,252957f37b8bd7a57473eab5f1a65d5c,Windows GUI,"Intel 386 or later, and compatibles",78848,exe
+32,locky,2.5,0.0,160256,0x1000,application/octet-stream,2016:08:18 14:50:48+01:00,Win32 EXE,PE32,4.0,0,4.0,a8344ecd79b1c1371526ee06a0a0fcd6,Windows GUI,"Intel 386 or later, and compatibles",102912,exe
+33,locky,,,,,application/vnd.ms-word.document.macroEnabled,,DOCM,,,,,ea8b3acdfb0c30156977897f693f9db6,,,,docm
+34,locky,,,,,application/vnd.ms-word.document.macroEnabled,,DOCM,,,,,5cc3a50ee804e38a1d4546166e204544,,,,docm
+35,locky,,,,,application/vnd.ms-word.document.macroEnabled,,DOCM,,,,,552ba52f618ac8d1e50a5524ef15bb5c,,,,docm
+36,locky,,,,,application/vnd.ms-word.document.macroEnabled,,DOCM,,,,,5d2cebe73f8387466ef8534797840de0,,,,docm
+37,locky,,,,,application/vnd.ms-word.document.macroEnabled,,DOCM,,,,,5f0cb3259701298a76d6ca475b4e404e,,,,docm
+38,locky,6.0,0.0,155648,0x22c98,application/octet-stream,2008:04:25 22:05:29+01:00,Win32 EXE,PE32,4.0,0,4.0,d377f4ca5ef69de33e3c58a8d4e76803,Windows GUI,"Intel 386 or later, and compatibles",139264,exe
+39,Teslacrypt,8.0,0.0,696320,0x5c70,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,a30863f1a404bc2f735cc9ad862e85a9,Windows GUI,"Intel 386 or later, and compatibles",28672,exe
+40,Teslacrypt,8.0,0.0,524288,0x2cc70,application/octet-stream,2008:04:13 20:14:55+01:00,Win32 EXE,PE32,4.0,0,5.0,a2fb8550db4d13c218f98862e24ef105,Windows GUI,"Intel 386 or later, and compatibles",188416,exe
+41,Teslacrypt,8.0,0.0,696320,0x5ae0,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,a1559181f4d306118f589dd86a8a3c30,Windows GUI,"Intel 386 or later, and compatibles",24576,exe
+42,Teslacrypt,8.0,0.0,524288,0x2c6d0,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,2180152ae725f04088dfc9eae68066a6,Windows GUI,"Intel 386 or later, and compatibles",188416,exe
+43,Teslacrypt,8.0,0.0,512000,0x2cc20,application/octet-stream,2008:04:13 20:14:55+01:00,Win32 EXE,PE32,4.0,0,4.0,a448ffac07a217b95d4c6478c487f096,Windows GUI,"Intel 386 or later, and compatibles",188416,exe
+44,Teslacrypt,0.0,0.0,696320,0x3850,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,9f82d05168c593b297f222e35f75d1f2,Windows command line,"Intel 386 or later, and compatibles",12288,exe
+45,Teslacrypt,8.0,0.0,540672,0x27cc0,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,74bdc7b3c8b04d65de527ebaa5e98c6f,Windows command line,"Intel 386 or later, and compatibles",163840,exe
+46,Teslacrypt,8.0,0.0,524288,0x2e5a0,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,a4743f759b43493ff32ce5f70b45946d,Windows GUI,"Intel 386 or later, and compatibles",188416,exe
+47,Teslacrypt,8.0,0.0,696320,0x5d80,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,dea0621fc08f5ee517579eee17ab2c14,Windows GUI,"Intel 386 or later, and compatibles",28672,exe
+48,Teslacrypt,0.0,0.0,598016,0x1d4d0,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,59be3dee06e4440a0acf98a002558bd1,Windows command line,"Intel 386 or later, and compatibles",118784,exe
+49,Teslacrypt,10.0,0.0,26112,0xfb81,application/octet-stream,2016:04:27 10:33:05+01:00,Win32 EXE,PE32,5.1,0,5.1,aaee605dc1238bd916a317ac48f4212d,Windows GUI,"Intel 386 or later, and compatibles",110080,exe
+50,Teslacrypt,8.0,0.0,524288,0x2ef40,application/octet-stream,2008:10:25 19:00:15+01:00,Win32 EXE,PE32,5.0,0,5.0,a0f02c3c9bfa3845099f100931b4242b,Windows GUI,"Intel 386 or later, and compatibles",192512,exe
+51,Teslacrypt,8.0,0.0,724992,0x1cc0,application/octet-stream,2008:04:13 20:14:55+01:00,Win32 EXE,PE32,4.0,0,4.0,aa6192caec3e025bb0943efa4ef28344,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+52,Teslacrypt,8.0,0.0,729088,0x1bb0,application/octet-stream,2008:04:13 20:14:55+01:00,Win32 EXE,PE32,4.0,0,4.0,a28437b921610199fd8aa95c473e0d59,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+53,Teslacrypt,8.0,0.0,770048,0x1a30,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,6834dd22796b7600deaf0b5d1927ae92,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+54,Teslacrypt,8.0,0.0,770048,0x1aa0,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,df2c0333c22768322ced8e55532dc8e8,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+55,Teslacrypt,8.0,0.0,770048,0x1c80,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,fc2e7389ce9140a4d096858c23e854e6,Windows GUI,"Intel 386 or later, and compatibles",16384,exe
+56,Teslacrypt,8.0,0.0,770048,0x1a00,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,f417f72aa747d2b41a6c9467a027786e,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+57,Teslacrypt,8.0,0.0,770048,0x1bd0,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,7a6029fb9d2580edbb6007b098b519ec,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+58,Teslacrypt,8.0,0.0,770048,0x1a20,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,c1de2311ae763f305144be54402a13ed,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+59,Teslacrypt,8.0,0.0,770048,0x1bf0,application/octet-stream,2004:02:15 19:17:39+01:00,Win32 EXE,PE32,4.0,0,4.0,725009eaa8a92d1d0cc46d70154939a9,Windows GUI,"Intel 386 or later, and compatibles",12288,exe
+60,xtreme,2.25,0.0,9728,0x88f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,00047fb702c1bd3b20d2254650df3768,Windows GUI,"Intel 386 or later, and compatibles",34304,exe
+61,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,012ef682f57c5b242736fdbf533216ce,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+62,xtreme,2.25,0.0,13824,0xc664,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,03afa299cdd5f04260c3c802a08e151d,Windows GUI,"Intel 386 or later, and compatibles",48640,exe
+63,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,03ccd72bae83487eea6585340c1f54ad,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+64,xtreme,2.25,0.0,10240,0x8ad4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,053c17c285aafa964535325a00eb934b,Windows GUI,"Intel 386 or later, and compatibles",34816,exe
+65,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,053ea0f162ef3f20bc2c02342f33b9e2,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+66,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,055ea57c27cf7b47b41135ea6dc1443a,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+67,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,07b836b6dad2ed74478a5e4b4d0fd4da,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+68,xtreme,2.25,0.0,9728,0x88f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,0ac05f67abc4ec757c96858a865adf7c,Windows GUI,"Intel 386 or later, and compatibles",34304,exe
+69,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,0e0ecf06774b7bd961a2d8d97b37b6f4,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+70,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,0f21d1349842c69674b9b17004cb5c7e,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+71,xtreme,2.25,0.0,755200,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,0ff429394157e4fca331c5f08c91899e,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+72,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,12d358ff057a96c11687c5d09410595e,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+73,xtreme,2.25,0.0,9728,0x88f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,13009b63dee4675c842ace362235f1d7,Windows GUI,"Intel 386 or later, and compatibles",34304,exe
+74,xtreme,2.25,0.0,9728,0x88f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,13eccdcf26d5a0495a2f205c9bd68c40,Windows GUI,"Intel 386 or later, and compatibles",34304,exe
+75,xtreme,2.25,0.0,131584,0x8abc,application/octet-stream,1992:06:20 00:22:17+02:00,Win32 EXE,PE32,4.0,0,4.0,14176a9a467b67ed29fdc9bfaa89fad5,Windows GUI,"Intel 386 or later, and compatibles",34816,exe
+76,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,163abb0c7ca93edd01f5854465cb64c4,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+77,xtreme,2.25,0.0,393728,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,17f3da74634e562e7fe19c6c4e4e2bc3,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+78,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,1834e956f576a05805ecb824b23b5f28,Windows GUI,"Intel 386 or later, and compatibles",51712,exe
+79,xtreme,2.25,0.0,79872,0x8abc,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,187cf4f5091f9838bcf8cf82df4ba6b7,Windows GUI,"Intel 386 or later, and compatibles",34816,exe
+80,xtreme,2.25,0.0,14336,0xd0f4,application/octet-stream,1992:06:19 23:22:17+01:00,Win32 EXE,PE32,4.0,0,4.0,1999232fd02d0c267f2dc9696b82ce86,Windows GUI,"Intel 386 or later, and compatibles",51712,exe

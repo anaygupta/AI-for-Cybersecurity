@@ -1,0 +1,23 @@
+SCENARIO
+You've just arrived for an afternoon shift at your company's Security Operations Center (SOC). 
+ As you enter the building, you're walking down the main hallway, and you hear someone crying from one of the office rooms nearby.
+
+You follow the noise and find it coming from a fancy office.  
+Poking your head in the door, you see the owner's son sitting at his desk, still crying.
+
+When you ask what's wrong, he replies, "My computer's telling me my files are locked, and I have to pay money to get them back!"
+
+You ask him if he has any backups.
+
+He blinks and replies, "Backwhat?"
+
+You shake your head and say he's out of luck.  He cries again and eventually quiets down.  He then asks, "How did this happen?"
+
+"Sounds like ransomware," you tell him.  "I need to get to work, but I'm one of the SOC analysts here."
+
+He blinks again and says, "Ransomwhat?"
+
+You stare at him for a second then say, "I'm part of the team that monitors network alerts for suspicious activity  There's bound to be an alert on what happened.  Let me look into it for you."
+
+He pouts, stomps his foot, and says, "I want to know who did this!"
+
